@@ -1,4 +1,4 @@
 pydns
 =====
 
-Python DNS
+Python DNS Server
